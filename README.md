@@ -1,10 +1,10 @@
 SERVER VERSION:
 - MYSQL: 8.0.25-15
-- PHP: 8.2.13 
+- PHP: 8.2.13
+
 
 
 INSTALLATION:
-
 1. Clone Repo
 2. buka terminal dan masuk ke direktori projek
 3. run ```composer install```
