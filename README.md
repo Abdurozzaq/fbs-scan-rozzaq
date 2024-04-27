@@ -1,3 +1,8 @@
+SERVER VERSION:
+- MYSQL: 8.0.25-15
+- PHP: 8.2.13 
+
+
 INSTALLATION:
 
 1. Clone Repo
