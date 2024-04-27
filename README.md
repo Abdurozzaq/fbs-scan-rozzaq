@@ -3,7 +3,7 @@ INSTALLATION:
 1. Clone Repo
 2. buka terminal dan masuk ke direktori projek
 3. run ```composer install```
-4. ubah nama file .env.example menjadi .env
+4. ubah nama file ```.env.example``` menjadi ```.env```
 5. creata database mysql dengan nama ```fbsscan``` atau dengan nama lain tapi di setting di .env berikut:
    ```
     DB_CONNECTION=mysql
