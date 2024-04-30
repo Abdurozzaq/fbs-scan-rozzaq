@@ -19,5 +19,6 @@ INSTALLATION:
     DB_PASSWORD=root
    ```
 6. run ```php artisan migrate```
-7. run ```php artisan serve```
-8. buka paka web browser ```localhost:8000```
+7. run ```php artisan key:generate```
+9. run ```php artisan serve```
+10. buka paka web browser ```localhost:8000```
